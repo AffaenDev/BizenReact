@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "YTCraigslist",
+    "search": "Search videos",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "regions": {
+    "usa": "USA",
+    "europe": "Europe",
+    "asia": "Asia"
+  },
+  "categories": {
+    "carSales": "Car Sales",
+    "truckSales": "Truck Sales",
+    "apartmentsSale": "Apartments for Sale",
+    "apartmentsRent": "Apartments for Rent",
+    "roomRent": "Room for Rent",
+    "furniture": "Furniture"
+  },
+  "video": {
+    "by": "Published by",
+    "price": "Price",
+    "location": "Location"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "socialLogin": "Or login with",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create Account"
+  }
+}
